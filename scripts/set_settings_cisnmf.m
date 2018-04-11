@@ -24,9 +24,9 @@ hop = Nw/4;
 wtype = 'hann';
 
 % Paths
-dataset_path = 'datasets/DSD100/';
-audio_path = 'complex-isnmf/audio_files/';
-metrics_path = 'complex-isnmf/metrics/';
+dataset_path = 'dataset/';
+audio_path = 'audio_files/';
+metrics_path = 'metrics/';
 
 % Algorithms
 algos = {'isnmf-W','isnmf-AW','isnmf-CAW','cnmf','cisnmf'};
