@@ -4,7 +4,7 @@ Here, you will find the code related to complex ISNMF
 
 If you use any of the things existing in this repository, please cite the [corresponding paper](https://arxiv.org/abs/1802.03156). 
 
-You can also find an online demo with sound examples related to this work on the [companion website](http://www.cs.tut.fi/~magron/demos/demo_CISNMF.html).
+You can also find an online demo with sound examples related to this work on the [companion website](https://magronp.github.io/demos/taslp19_cisnmf.html).
 
 ### Dataset set-up
 
