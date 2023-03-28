@@ -1,4 +1,4 @@
-# Complex ISNMF GitHub repository
+# Complex ISNMF
 
 Here, you will find the code related to complex ISNMF
 
@@ -6,7 +6,7 @@ If you use any of the things existing in this repository, please cite the [corre
 
 You can also find an online demo with sound examples related to this work on the [companion website](https://magronp.github.io/demos/taslp19_cisnmf.html).
 
-### Dataset set-up
+### Data setup
 
 To reproduce the experiments conducted in our paper, you will need to download the [Dexmixing Secret Database (DSD100)](http://www.sisec17.audiolabs-erlangen.de) and to place its content in the `dataset/DSD100` folder.
 
